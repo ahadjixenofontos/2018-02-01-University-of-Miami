@@ -5,7 +5,7 @@ venue: "University of Miami"        # University of Miami
 address: "Richter Library #343, University of Miami, 1300 Memorial Dr, Miami, FL 33146"      # Richter Library #343, University of Miami, 1300 Memorial Dr, Miami, FL 33146
 country: "us"      # us
 language: "en"     # en
-latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
+latlng: "25.721279, -80.278624"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
 humandate: "Jan 18-19, 2018"    # Jan 18-19, 2018
 humantime: "9:00 am - 5:00 pm"    # 9:00 am - 5:00 pm
 startdate: 2018-01-18      # 2018-01-18
