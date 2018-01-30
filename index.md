@@ -2,17 +2,17 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # swc
 venue: "University of Miami"        # University of Miami
-address: "Richter Library #343, University of Miami, 1300 Memorial Dr, Miami, FL 33146"      # Richter Library #343, University of Miami, 1300 Memorial Dr, Miami, FL 33146
+address: "Ungar Building, Room 230C/D, 1365 Memorial Drive, Coral Gables, 33146"      # Ungar Building, Room 230C/D, 1365 Memorial Drive, Coral Gables, 33146
 country: "us"      # us
 language: "en"     # en
-latlng: "25.721279, -80.278624"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "Jan 18-19, 2018"    # Jan 18-19, 2018
+latlng: "25.721582, -80.279824"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
+humandate: "Feb 01-02, 2018"    # Feb 01-02, 2018
 humantime: "9:00 am - 5:00 pm"    # 9:00 am - 5:00 pm
-startdate: 2018-01-18      # 2018-01-18
-enddate: 2018-01-19        # 2018-01-18
-instructor: ["Tim Norris", "Alejandro Montero"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Athena Hadjixenofontos"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["tnorris@miami.edu", "a.mantero@med.miami.edu", "ahadjixenofontos@med.miami.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+startdate: 2018-02-01      # 2018-01-18
+enddate: 2018-02-02        # 2018-01-18
+instructor: ["Tim Norris", "Athena Hadjixenofontos"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Kalan Dawson"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+email: ["tnorris@miami.edu", "kdawson@med.miami.edu", "ahadjixenofontos@med.miami.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
